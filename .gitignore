@@ -1,0 +1,12 @@
+/.idea/*
+.vscode/*
+.DS_Store
+log/*
+temp/*
+test/*
+data/*
+model/*
+models/*
+tmp/*
+
+*.pt
